@@ -1,0 +1,7 @@
+target
+.metals
+# .vscode
+.bloop
+.DS_Store
+metals.sbt
+data/hudi_trips_cow/*
